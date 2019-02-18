@@ -1,0 +1,19 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "js review basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffpash/to-do-app.git"
+  },
+  "author": "jeffpash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffpash/to-do-app/issues"
+  },
+  "homepage": "https://github.com/jeffpash/to-do-app#readme"
+}
